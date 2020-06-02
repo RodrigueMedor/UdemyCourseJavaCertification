@@ -9,6 +9,7 @@ public class WideningExample {
     public static void main(String[] args) {
 
         char myChar = 'a';  // this is integer value 97
+        
 
         byte myByte = 0;   // remember this is narrowing.  0 is an int narrowed to a byte.
         short myShort;
@@ -17,12 +18,15 @@ public class WideningExample {
         int myInt = 0;
         float myFloat = 0.0f;
         double myDouble = 0.0;
+        
 
         // Widening with literals
         long myLong = 0;   // widening an int to a long
         myDouble = 0.0f;   // widening a float literal to a double
 
         //Example of Widening with variables
+        
+        
 
         // Since assignments are right to left..
         //      value in myByte is widened to short when assigned to myShort
@@ -35,6 +39,8 @@ public class WideningExample {
 
         System.out.println("Happy Widening");
 
+        
+        
         myByte = 'a';  // literal char is widened to int then narrowed to byte so ok
 
         // The following conversions combine both widening and
@@ -50,6 +56,7 @@ public class WideningExample {
 //        myShort = myChar;
 //        myChar = myShort;
 
+        
         System.out.println("myByte = " + myByte);
 
     }

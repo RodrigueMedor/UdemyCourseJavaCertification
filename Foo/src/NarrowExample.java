@@ -25,6 +25,8 @@ public class NarrowExample {
         byte b = 127;
         char c = 65535;
         short s = 32767;
+        
+        
 
         // Implicit narrowing can no longer be done because the literal does not fit the container it is assigned to.
 //        byte b1 = 128;
@@ -37,6 +39,8 @@ public class NarrowExample {
 //        short s2 = 0.0;
 //        int i2 = 0.0;
 //        long l2 = 0.0;
+        
+        
 
         int myIntVariable = 1;
 
