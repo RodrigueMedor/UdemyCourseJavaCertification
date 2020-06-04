@@ -88,6 +88,29 @@ public class EvaluateString {
 		System.out.println(EvaluateString.evaluate("100 * 2 + 12"));
 		System.out.println(EvaluateString.evaluate("100 * ( 2 + 12 )"));
 		System.out.println(EvaluateString.evaluate("100 * ( 2 + 12 ) / 14"));
+		
+		System.out.println("*********************************************************");
+		boolean eyesClosed = true;
+		boolean breathhingSlowly = true;
+		
+		boolean resting = eyesClosed | breathhingSlowly;
+		boolean asleep = eyesClosed & breathhingSlowly;
+		boolean awake = eyesClosed ^ breathhingSlowly;
+		
+		System.out.println(resting);
+		System.out.println(asleep);
+		System.out.println(awake);
+		System.out.println("*************************");
+		int owl = 5;
+		int temp;
+		if(owl < 2) {
+			temp = 3;
+		}else
+			temp = 4;
+		System.out.println(temp);
+		
+
 	}
+	
 
 }

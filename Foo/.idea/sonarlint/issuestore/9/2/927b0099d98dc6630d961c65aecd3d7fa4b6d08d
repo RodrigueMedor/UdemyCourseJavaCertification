@@ -1,0 +1,22 @@
+
+:
+java:S1659"Declare "b" on a separate line.(àÎÑ…úÿÿÿÿ
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(–™¬³ûÿÿÿÿ8î¸Ûë§.
+?
+java:S1659""Declare "walf" on a separate line.(×®ƒæ8—ò§í§.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯²‡Œ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³¶Ž—8¢½¥í§.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ8î¸Ûë§.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÝ‡ûþÿÿÿÿ8î¸Ûë§.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(—Úá8î¸Ûë§.
+T
+java:S1135$"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8î¸Ûë§.
+X	java:S125"<This block of commented-out lines of code should be removed.(¬îÓý8üÍÔå§.
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(½¥ •
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê®Ä«8ãåë§.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷äê÷ýÿÿÿÿ8áÓìë§.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûñ±¼8²ìëë§.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—µúÿÿÿÿ8ßÂ«í§.
+J
+java:S1121".Extract the assignment out of this expression.(ÉßÚZ8Åªí§.
