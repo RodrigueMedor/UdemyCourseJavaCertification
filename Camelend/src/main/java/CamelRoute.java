@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class CamelRoute {
+public class CamelRoute  extends  EndpointRouteBuilder{
 }

@@ -1,4 +1,4 @@
-package com.camel.camel.resouces;
+package com.camel.camel1.resouces;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.model.rest.RestBindingMode;

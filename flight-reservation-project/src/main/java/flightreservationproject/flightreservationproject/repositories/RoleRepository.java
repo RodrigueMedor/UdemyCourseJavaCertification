@@ -1,4 +1,7 @@
 package flightreservationproject.flightreservationproject.repositories;
 
-public interface RoleRepository {
+import flightreservationproject.flightreservationproject.domain.Role;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface RoleRepository extends JpaRepository<Role, Long> {
 }

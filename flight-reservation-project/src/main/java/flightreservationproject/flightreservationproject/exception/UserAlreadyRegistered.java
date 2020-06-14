@@ -1,4 +1,4 @@
-package flightreservationproject.flightreservationproject.service;
+package flightreservationproject.flightreservationproject.exception;
 
 public class UserAlreadyRegistered extends RuntimeException{
 
